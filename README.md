@@ -4,16 +4,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 
 ## 🗄️ Structure
 
-The problems are categorised by difficulty:
-
-leetcode-solutions/
-│
-├── README.md
-├── easy/
-│
-├── medium/
-│
-├── hard/
+The problems are categorised by difficulty: Easy, Medium and Hard.
 
 ## 📁 Each solution file includes:
 
